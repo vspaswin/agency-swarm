@@ -1,4 +1,4 @@
 -r requirements.txt
-langchain==0.0.345
+langchain==0.2.5
 pytest
 pytest-cov
